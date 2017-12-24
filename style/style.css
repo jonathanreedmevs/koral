@@ -1,0 +1,15 @@
+#myJumbotron{
+    background-color: black;
+}
+
+.pinkBorder{
+  border-color: pink !important;
+}
+
+.blackBorder{
+  border-color: black !important;
+}
+
+.customButton{
+  border-radius: 50px;
+}
